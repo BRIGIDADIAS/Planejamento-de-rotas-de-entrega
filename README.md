@@ -1,6 +1,7 @@
 # Planejamento-de-rotas-de-entrega
-Relatório de Otimização da Cadeia de Suprimentos
-Alocação das Demandas
+## Relatório de Otimização da Cadeia de Suprimentos
+## Alocação das Demandas
+
 CD1:
 
 Loja 1: 200 unidades (Custo: R$ 870,00)
@@ -20,19 +21,19 @@ Loja 7: 270 unidades (Custo: R$ 930,00)
 
 Custo Total de Transporte: R$ 8.995,00
 
-Simulação de Pico de Demanda
+## Simulação de Pico de Demanda
 Novo Cálculo de Demandas:
 
 Loja 1: 200 unidades
 Loja 2: 280 unidades
 ...
-## Resultado:
+Resultado:
 
 Capacidade do CD1 excedida em 200 unidades.
 Loja 10 não pode ser atendida pelo CD3 devido à capacidade excedida.
-Estratégia de Expansão
+## Estratégia de Expansão
 
-## Proposta:
+ Proposta:
 Aumentar a capacidade do CD1 em 200 unidades.
 Custo estimado de expansão: R$ 70.000,00.
 Benefícios: Atende ao aumento de demanda com menor custo adicional de transporte.
